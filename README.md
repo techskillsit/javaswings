@@ -1,4 +1,4 @@
-# javaswings
+# Gava Swings
 Java GUI programming
 
 Trainer: Imtiyaz Hirani 
